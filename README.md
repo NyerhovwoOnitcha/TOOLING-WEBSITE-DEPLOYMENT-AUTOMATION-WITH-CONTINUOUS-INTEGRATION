@@ -4,5 +4,5 @@ This proeject is a automates everything done in [project 8](https://github.com/N
 
 
 
-![project 9](https://github.com/NyerhovwoOnitcha/TOOLING-WEBSITE-DEPLOYMENT-AUTOMATION-WITH-CONTINUOUS-INTEGRATION/assets/101157174/13c20b30-d098-44aa-a7df-09eb922f5d13)
+![project 9](./images/project%209.png)
 
