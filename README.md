@@ -4,5 +4,5 @@ This project automates everything done in [project 8](https://github.com/Nyerhov
 
 
 
-![Project-9 Overview](./images/project%209.png)
+![Project9 Overview](./images/project%209.png)
 
